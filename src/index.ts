@@ -111,6 +111,7 @@ for (var i = 0; i < questions.length; i++) {
       console.log("Press any key for next question...");
       inp();
     }
+    if(point<0)point=0;
     console.clear();
   }
 }
