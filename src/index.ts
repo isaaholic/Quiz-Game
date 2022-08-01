@@ -115,4 +115,4 @@ for (var i = 0; i < questions.length; i++) {
   }
 }
 
-console.log(`Quize qatildiginiz ucun tesekkurler, sizin neticeniz: ${point}`);
+console.log(`Thanks for participating in the quiz, your final point is ${point}`);
